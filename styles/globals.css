@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.activeSub {
+    @apply border-[1px]  border-[#636262];
+}
+
+.mainContainer {
+    width: 75%;
+}
+
+.btn {
+
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: #4e4e4e;
+    border-left: 1px solid #ffffff;
+    color: #ffffff;
+    font-family: "Montserrat Thin", sans-serif;
+    font-weight: 500;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #4e4e4e;
+    height: 100%;
+    width: 43px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.setSidebar {
+    background-color: #ffffff !important;
+}
+
+.icon:hover {
+    background-color: #636363;
+}
