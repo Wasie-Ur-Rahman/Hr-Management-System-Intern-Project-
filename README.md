@@ -36,7 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # Hr-Management-System-Intern-Project-
 Developed the Website using Next.js (React framework), JSX, Tailwind Css, and Supabase (Back-End). The website consists of all the necessary functions from the creation of appraisal sessions by the admin, answers by the employee, employee registration, departmental information, and much more.
-## Generic Website Walkthroug
+## Website Walkthrough
  1)The First Page that would be visible will be the Login page that will route you to other pages based on your designation if you are accessing the website as an admin or as an employee.
 
 ![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/3741848f-2a54-4419-a72d-8114f6f6cb24)
@@ -87,7 +87,46 @@ Developed the Website using Next.js (React framework), JSX, Tailwind Css, and Su
 
 ![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/aef522f4-b557-4dbb-b91d-4c31d13cc366)
 
-12)By clicking on the feedback , the admin can view the feedbacks given by the employee and by further clicking on the liink button the admin can 
+12)By clicking on the feedback , the admin can view the feedbacks given by the employee and by further clicking on the liink button the admin can view the employee id , the feedback of the employee and admin can respond to that feedback also.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/5dfdf2e0-d4af-460c-8561-208560a9a909)
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/02901e01-bc0c-47c8-9f39-3c66abc453c3)
+
+13)Project Information shows to which department the project is assigned and who is managing the department.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/02e823b7-646f-4d2c-9024-a6dfb7144a93)
+
+14)Project lists lists down all the projects and to which department that project is assigned to . also shows relevant details on clicking the link button.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/efcde511-6ea3-43e0-9d11-8111c0d613a6)
+
+15)On clicking on the logout button, the admin is logged out of the system.
+
+16)Now by logging in the system as an employee , a dashboard is presented showing appraisal list and profile button.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/74acc360-da96-42b4-987e-e59fad5b5346)
+
+17)Profile will show all the details regarding the employee, pdfs of the degree & certification can beviewed be viewed by clicking on them.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/2b59ed06-4f96-4d1a-afe9-7d52422796d0)
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/b99d0482-122b-4f2f-847d-d40db2dd3d72)
+
+18)If appraisal session is opend the employee could give his/her feedback.
+
+![image](https://github.com/Wasie-Ur-Rahman/Hr-Management-System-Intern-Project-/assets/60887390/bdce4810-a47f-4736-b576-cf15bcb0c802)
+
+19)By clicking the logout button , employee can logout the system.
+
+
+
+
+
+
+
+
+
 
 
 
